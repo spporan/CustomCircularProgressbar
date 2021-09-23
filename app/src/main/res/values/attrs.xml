@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="Progress">
+    <declare-styleable name="CircularProgress">
         <attr name="colorProgress" format="color"/>
         <attr name="colorBackground" format="color"/>
         <!--between 0 and 100 (%)-->
